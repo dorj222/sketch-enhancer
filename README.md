@@ -1,6 +1,6 @@
 # sketch-enhancer
 # Overview
-Interactive Storybook Creation with Human-AI Collaboration
+## Interactive Storybook Creation with Human-AI Collaboration
 This Jupyter Notebook serves as a collaborative platform for creating interactive storybooks, specifically designed for children. By leveraging the capabilities of Gradio, Stable Diffusion, and the CLIP Interrogator, the notebook enables a seamless interaction between humans and AI.
 
 # Features
