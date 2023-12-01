@@ -1,6 +1,12 @@
 # sketch-enhancer
 # Overview
-This Jupyter Notebook demonstrates the integration of the Gradio library, Clip Interrogator, and Stable Diffusion v1.4 in a Python environment. This program is designed to improve and generate images, specifically for the purpose of enhancing children's storybooks.
+Interactive Storybook Creation with Human-AI Collaboration
+This Jupyter Notebook serves as a collaborative platform for creating interactive storybooks, specifically designed for children. By leveraging the capabilities of Gradio, Stable Diffusion, and the CLIP Interrogator, the notebook enables a seamless interaction between humans and AI.
+
+Features
+Gradio Integration: Utilize Gradio to build an interactive and user-friendly interface that allows children to actively participate in the creation of storybook content.
+Stable Diffusion v1.4: Harness the power of Stable Diffusion v1.4 for image generation, enabling visually captivating illustrations to enhance the storytelling experience.
+CLIP Interrogator: Integrate the CLIP Interrogator, a prompt engineering tool combining OpenAI's CLIP and Salesforce's BLIP. This tool optimizes text prompts to match a given image, enhancing the collaboration between human creators and AI components.
 
 # Installation
 # 1. Clone the Repository
@@ -30,6 +36,3 @@ Navigate to the directory and open the Jupyter Notebook file (e.g., your_noteboo
 
 # 8. Run the Notebook
 Execute the notebook cells to run the code. Follow any specific instructions in the notebook.
-
-# 9. Deactivate the Virtual Environment when finished
-deactivate
