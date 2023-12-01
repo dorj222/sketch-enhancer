@@ -26,10 +26,10 @@ pip install jupyter
 jupyter notebook
 
 # 7. Open the Jupyter Notebook
-# Navigate to the directory and open the Jupyter Notebook file (e.g., your_notebook.ipynb)
+Navigate to the directory and open the Jupyter Notebook file (e.g., your_notebook.ipynb)
 
 # 8. Run the Notebook
-# Execute the notebook cells to run the code. Follow any specific instructions in the notebook.
+Execute the notebook cells to run the code. Follow any specific instructions in the notebook.
 
 # 9. Deactivate the Virtual Environment when finished
 deactivate
