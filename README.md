@@ -3,7 +3,7 @@
 Interactive Storybook Creation with Human-AI Collaboration
 This Jupyter Notebook serves as a collaborative platform for creating interactive storybooks, specifically designed for children. By leveraging the capabilities of Gradio, Stable Diffusion, and the CLIP Interrogator, the notebook enables a seamless interaction between humans and AI.
 
-Features
+# Features
 Gradio Integration: Utilize Gradio to build an interactive and user-friendly interface that allows children to actively participate in the creation of storybook content.
 Stable Diffusion v1.4: Harness the power of Stable Diffusion v1.4 for image generation, enabling visually captivating illustrations to enhance the storytelling experience.
 CLIP Interrogator: Integrate the CLIP Interrogator, a prompt engineering tool combining OpenAI's CLIP and Salesforce's BLIP. This tool optimizes text prompts to match a given image, enhancing the collaboration between human creators and AI components.
